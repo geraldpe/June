@@ -1,0 +1,80 @@
+début du projet : 23/04/2020 10h
+
+le principe est de créer une sorte d'IA avec laquelle on pourrait avoir une discussion 
+biensur, on ne peut pas lui programmer toutes les discussions possibles
+
+seules certaines discussions bateau seront programmées mais le programme devra pouvoir apprendre au fur et à mesure
+des conversations grâce à une mémoire
+
+nom de développement :  June
+
+23/04/2020 17h30
+
+La mémoire de June a été programmée, il faut maintenant implémanter une intelligence pour les discussions permettant
+à June de savoir où elle en est dans la discussion, pour ne pas perdre de le fil et par exemple, pour ne pas dire
+deux fois bonjour dans la meme conversation
+
+le principe de sa personnalité est qu'elle est consciente de sa condition de machine et ça ne doit pas la déranger
+elle doit être à peu près neutre
+je vais donner les fichiers à Jade, elle va l'entrainer et lui apprendre certaines choses
+cela permettra d'améliorer sa personnalité  
+
+June1.0.0 : -principe de mémoire et d'apprentissage, première version
+
+June1.0.1 : -patch de certains problèmes d'affichage 
+	    -possibilité d'utiliser la commande --quit dans la conversation
+	    -augmentation de la base de donnée
+
+June1.0.2 : -amélioration de l'intelligence avec les phrases simples
+	    -corrections de bugs
+	    -augmentation de la base de donnée
+
+June1.0.3 : -corrections de bugs                                      
+	    -amélioration du menu
+	    -petite amélioration de la base de donnée
+
+June1.0.4 : -réécriture de la base de code
+	    -correction de bugs
+	    -amélioration de l'ergonomie
+
+June1.1.0 : -executable batch avec raccourci et nouvelle icone
+	    -creation du principe de rubriques
+	    -ajout de la commande --calc et --matrix
+	    -changement de la commande --quitconv en --quitloop
+
+June1.1.1 : -ajout de la section -hacking
+	    -réglage de bugs liés à la taille de la fenêtre
+	    -ajout des applications --wordlist (pas encore utilisable ~~~ coming soon)
+	    -patch d'autres problèmes liés aux rubriques
+
+June1.2.0 : -ajout de la rubrique settings
+	    - --wordlist maintenant utilisable
+	    -ajout de la possibilité de mettre un mot de passe à June
+	    -ajout de la bibliothèque Sha_g permettant de crypter certaines choses
+	    -modification de certaines parties du code
+	    -creation de l'objet June
+	    -amelioration du repérage dans les rubriques
+
+June1.2.1 : -creation d'une icone pour le raccourci
+	    -amélioration de l'ergonomie
+	    -préparation de la mémoire émotionnelle
+
+June1.2.2 : -réglage d'un gros bug au niveau de l'apprentissage
+	
+June1.2.3 : -amélioration de l'interface
+	    -reglages de problemes dans le code
+
+June1.2.4 : -ajout de l'application --namegreak
+	    -amélioration de la structure du code
+	    -possibilité d'utiliser la commande --quit dans le menu principal
+	    -reglage de problèmes dans le code
+	    -amélioration du core de Wordlist
+	    -changement de langue de l'application Wordlist
+
+June1.2.5 : -préparation emotions
+	    -amélioration du système de commandes
+            -réglage de bugs
+
+	    
+
+
